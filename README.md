@@ -15,7 +15,7 @@ This repository contains an **interactive Power BI dashboard** that visualizes t
 3. Customize the filters to analyze data by **Fiscal Year** or **Category**.
 
 ## Preview 📸
-![Sales Report Dashboard]([./preview.png](https://github.com/Fritxyz/adventure-works-sales-dashboard/blob/main/screenshots/preview.png))
+![Sales Report Dashboard](https://github.com/Fritxyz/adventure-works-sales-dashboard/blob/main/screenshots/preview.png?raw=true)
 
 ## Contributing 🤝
 Feel free to submit issues or pull requests for enhancements.
