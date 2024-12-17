@@ -1,4 +1,4 @@
-# Adventure Works Executive Sales Report
+# Adventure Works Executive Sales Report Dashboard
 
 This repository contains an **interactive Power BI dashboard** that visualizes the sales performance of Adventure Works. It provides insights into total revenue, profit, and units sold, categorized by year, product type, and region. You can access the datasets at datasets dashboard. 
 
