@@ -4,7 +4,6 @@ This repository contains an **interactive Power BI dashboard** that visualizes t
 
 ## Technology Stack ⚙️
 - **Power BI**: For data visualization and dashboard creation.
-- **Microsoft Bing Maps**: Integrated for geographical data representation.
 
 ## Usage Instructions 🚀
 1. Clone this repository.
